@@ -1,0 +1,17 @@
+#nav {
+  background-color: #1736b3;
+  color: white;
+}
+#nav a {
+  color: white;
+  font-weight: bold;
+}
+
+#nav a:hover {
+  background-color: #2344c6;
+  color: #15db95;
+}
+
+.navlink {
+  text-decoration: none;
+}
