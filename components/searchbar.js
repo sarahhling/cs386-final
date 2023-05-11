@@ -11,7 +11,7 @@ function Searchbar() {
         id="button-addon2"
         className={styles.searchbutton}
       >
-        Button
+        Search
       </Button>
     </InputGroup>
   );
