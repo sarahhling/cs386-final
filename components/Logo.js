@@ -1,8 +1,14 @@
 import React from "react";
-import Image from "next/image";
+import Image from "react-bootstrap/Image";
+import styles from "../styles/Logo.module.css";
+import Link from "next/link";
 
 function Logo() {
-  return <Image src="/logo.png" width={50} height={150} alt="logo" />;
+  return (
+    <Link href="/" id={styles.logoLink}>
+      <Image src="/logo.png" alt="logo" className={styles.logo} />
+    </Link>
+  );
 }
 
 export default Logo;
