@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 function Headline(props) {
   var { imgURL, date, headline, url, source } = props;
@@ -13,7 +14,7 @@ function Headline(props) {
 
   return (
     <li class="headline my-2">
-      <img src={imgURL} className="img" />
+      <Image src={imgURL} className="img" />
       <div>
         <p className="m-0 date">{date}</p>
         <a href={url}>

@@ -5,8 +5,10 @@ function HeadlineBody({ articles }) {
   return (
     <>
       {articles.map((article) => {
+        const key = index + 1;
         return (
           <Headline
+            key={key}
             source={article.source.name}
             headline={article.title}
             date={article.publishedAt}
