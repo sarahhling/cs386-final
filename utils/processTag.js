@@ -1,8 +1,6 @@
 import React from "react";
-import styles from "../styles/Tag.module.css";
 
-function Tag(props) {
-  const { type } = props;
+function processTag() {
   var style;
   var value;
   switch (type) {
@@ -59,10 +57,11 @@ function Tag(props) {
       value = "Satire";
       break;
     default:
+      style = "";
+      value = "";
     // code block
   }
-
-  return <span className={style}>{value}</span>;
+  return [style, value];
 }
 
-export default Tag;
+export default processTag;
