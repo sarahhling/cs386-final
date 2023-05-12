@@ -14,6 +14,11 @@ const Navbar = () => {
           </Nav.Link>
         </Nav.Item>
         <Nav.Item>
+          <Nav.Link href="/" id="general" className={`py-3 ${styles.navlink}`}>
+            General
+          </Nav.Link>
+        </Nav.Item>
+        <Nav.Item>
           <Nav.Link href="/biz" id="biz" className={`py-3 ${styles.navlink}`}>
             Business
           </Nav.Link>
