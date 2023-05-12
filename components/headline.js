@@ -1,15 +1,24 @@
 import React from "react";
 
 function Headline(props) {
-  const { headlineGroup, imgURL, date, headline, url, source } = props;
+  var { imgURL, date, headline, url, source } = props;
+  var headlineGroup;
+
+  imgURL = imgURL == null ? "" : imgURL;
+  date = date == null ? "" : date;
+  headline = headline == null ? "" : headline;
+  url = url == null ? "" : url;
+  source = source == null ? "" : source;
+  console.log(`${imgURL}\n${date}\n${headline}\n${url}\n${source}`);
+
   return (
     <li class="headline my-2">
       <img src={imgURL} className="img" />
       <div>
-        <p class="m-0 date">{date}</p>
+        <p className="m-0 date">{date}</p>
         <a href={url}>
           {headline}
-          <span class="source">({source})</span>
+          <span className="source">({source})</span>
         </a>
         {headlineGroup}
       </div>

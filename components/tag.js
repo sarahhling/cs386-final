@@ -3,8 +3,7 @@ import styles from "../styles/Tag.module.css";
 
 function Tag(props) {
   const { type } = props;
-  var style;
-  var value;
+  var style, value;
   switch (type) {
     case "Very High":
       style = styles.veryHigh;
