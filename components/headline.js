@@ -1,11 +1,12 @@
 import React from "react";
-import Image from "next/image";
+import Image from "react-bootstrap/Image";
+import styles from "../styles/Headline.module.css";
 
 function Headline(props) {
   var { imgURL, date, headline, url, source } = props;
   var headlineGroup;
 
-  imgURL = imgURL == null ? "" : imgURL;
+  imgURL = imgURL == null ? "/defaultHeadlineImg.png" : imgURL;
   date = date == null ? "" : date;
   headline = headline == null ? "" : headline;
   url = url == null ? "" : url;
@@ -13,13 +14,13 @@ function Headline(props) {
   console.log(`${imgURL}\n${date}\n${headline}\n${url}\n${source}`);
 
   return (
-    <li class="headline my-2">
-      <Image src={imgURL} className="img" />
+    <li class={`${headline} my-2`}>
+      <Image src={imgURL} className={styles.img} />
       <div>
-        <p className="m-0 date">{date}</p>
+        <p className={`m-0 ${styles.date}`}> {date}</p>
         <a href={url}>
           {headline}
-          <span className="source">({source})</span>
+          <span className={styles.source}>({source})</span>
         </a>
         {headlineGroup}
       </div>

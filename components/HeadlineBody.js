@@ -2,6 +2,7 @@ import React from "react";
 import Headline from "./headline";
 
 function HeadlineBody({ articles }) {
+  var index = 0;
   return (
     <>
       {articles.map((article) => {

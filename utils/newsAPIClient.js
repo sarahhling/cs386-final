@@ -1,5 +1,7 @@
 const NewsAPI = require("newsapi");
-const newsapi = new NewsAPI("ad79edae7a454511bebbd0229884771e");
+const newsapi = new NewsAPI("ad79edae7a454511bebbd0229884771e", {
+  corsProxyUrl: "https://corsproxy.io/?",
+});
 
 //process.env.NEWS_API_KEY
 // To query /v2/top-headlines
