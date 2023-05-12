@@ -7,7 +7,7 @@ import styles from "../styles/Navbar.module.css";
 
 const Navbar = () => {
   const [all, setAll] = useState("/all.png");
-  const [gen, setGen] = useState("/gen.png");
+  const [gen, setGen] = useState("/news.png");
   const [biz, setBiz] = useState("/biz.png");
   const [sci, setSci] = useState("/sci.png");
   const [tech, setTech] = useState("/tech.png");
