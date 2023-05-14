@@ -6,27 +6,27 @@ function Tag({ type }) {
   switch (type) {
     case "Very High":
       style = styles.veryHigh;
-      value = "FR: Very High";
+      value = "Facts: Very High";
       break;
     case "High":
       style = styles.high;
-      value = "FR: High";
+      value = "Facts: High";
       break;
     case "Mostly Factual":
       style = styles.mostlyFactual;
-      value = "FR: Mostly Factual";
+      value = "Facts: Mostly Factual";
       break;
     case "Mixed":
       style = styles.mixed;
-      value = "FR: Mixed";
+      value = "Facts: Mixed";
       break;
     case "Low":
       style = styles.low;
-      value = "FR: Low";
+      value = "Facts: Low";
       break;
     case "Very Low":
       style = styles.veryLow;
-      value = "FR: Very Low";
+      value = "Facts: Very Low";
       break;
     case "Extreme Left":
       style = styles.extreme_left;
@@ -38,7 +38,7 @@ function Tag({ type }) {
       break;
     case "Left-Center":
       style = styles.leftCenter;
-      value = "Left Center";
+      value = "Left-Center";
       break;
     case "Least Biased":
       style = styles.leastBiased;

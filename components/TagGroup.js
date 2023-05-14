@@ -6,7 +6,9 @@ function TagGroup({ source }) {
   var tags = getInfo(source);
   var index = 0;
   return (
-    <div>{tags.length > 0 && tags.map((tag, index) => <Tag type={tag} />)}</div>
+    <div>
+      {tags.length > 0 && tags.map((tag) => <Tag type={tag} key={index} />)}
+    </div>
   );
   index += 1;
 }

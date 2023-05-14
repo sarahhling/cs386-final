@@ -34,15 +34,15 @@ function Headline(props) {
     //     {headlineGroup}
     //   </div>
     // </li>
-    <Row className={styles.headlineDiv}>
+    <Row className="py-2">
       <Col xs={2}>
-        <Image src={imgURL} className={styles.img} />
+        <Image src={imgURL} className={styles.img} alt="headline image" />
       </Col>
       <Col>
-        <Row>
+        <Row className="py-2">
           <p className={`m-0 ${styles.date}`}>{date}</p>
         </Row>
-        <Row>
+        <Row className="pb-1">
           <div>
             <a href={url} className={styles.headline}>
               {headline}&nbsp;

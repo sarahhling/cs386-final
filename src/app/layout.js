@@ -38,11 +38,10 @@ export default function RootLayout({ children }) {
               <Row>
                 {
                   isLoading ? (
-                    <HeadlineBodyPlaceholder /> // Render a placeholder while the component is loading
+                    <HeadlineBodyPlaceholder /> // Renders placeholder while component is loading
                   ) : (
-                    //children
-                    <HeadlineBodyPlaceholder />
-                  ) // Render your component content after it has loaded
+                    children
+                  ) // Renders content after it has loaded
                 }
               </Row>
             </Col>

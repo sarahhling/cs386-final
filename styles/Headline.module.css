@@ -1,15 +1,11 @@
 .date {
-  font-size: 13px;
+  font-size: 14px;
   color: #1736b3;
 }
 
 .img {
   width: 100%;
   min-height: 90px;
-}
-
-.headlineDiv {
-  padding: 15px 0px;
 }
 
 .source {
