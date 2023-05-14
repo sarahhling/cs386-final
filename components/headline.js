@@ -5,7 +5,7 @@ import { Row, Col } from "react-bootstrap";
 import TagGroup from "./TagGroup";
 
 function Headline(props) {
-  var { imgURL, date, headline, url, source } = props;
+  var { imgURL, date, headline, url, source, opinion } = props;
   var source_url;
 
   imgURL = imgURL == null ? "/defaultHeadlineImg.png" : imgURL;
@@ -15,7 +15,7 @@ function Headline(props) {
   source = source == null ? "" : source;
   source_url = source == null ? "" : "https://www." + source;
 
-  console.log(`${imgURL}\n${date}\n${headline}\n${url}\n${source}`);
+  //console.log(`${imgURL}\n${date}\n${headline}\n${url}\n${source}`);
 
   if (date != "") {
     const options = { month: "long", day: "numeric", year: "numeric" };
@@ -40,7 +40,10 @@ function Headline(props) {
       </Col>
       <Col xs={12} sm={12} md={10} xl={10}>
         <Row className="py-1">
-          <p className={`m-0 ${styles.date}`}>{date}</p>
+          <p className={`m-0 ${styles.date}`}>
+            {date} &nbsp;&nbsp;
+            <TagGroup opinion={opinion} />
+          </p>
         </Row>
         <Row className="pb-1">
           <div>

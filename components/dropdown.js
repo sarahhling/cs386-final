@@ -124,6 +124,12 @@ export default function CustomDropdown() {
                 label="Pseudoscience/Conspiracy"
                 onChange={handleCheckboxChange}
               />
+              <Form.Check // prettier-ignore
+                type="checkbox"
+                id="opinion"
+                label="Opinion Piece"
+                onChange={handleCheckboxChange}
+              />
             </Form>
           </Accordion.Body>
         </Accordion.Item>

@@ -4,6 +4,10 @@ function processTag(type) {
   var style;
   var value;
   switch (type) {
+    case "opinion":
+      style = styles.opinion;
+      value = "( Opinion Piece )";
+      break;
     case "Very High":
       style = styles.veryHigh;
       value = "Facts: Very High";

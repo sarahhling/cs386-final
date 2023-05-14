@@ -2,15 +2,15 @@ import React from "react";
 import Tag from "./tag";
 import { getInfo } from "../scripts/processNewsRatingsJSON";
 
-function TagGroup({ source }) {
-  var tags = getInfo(source);
-  var index = 0;
+function TagGroup(props) {
+  const { source, opinion } = props;
+  var tags = getInfo(source, opinion);
   return (
-    <div>
-      {tags.length > 0 && tags.map((tag) => <Tag type={tag} key={index} />)}
+    <div className="d-inline">
+      {tags.length > 0 &&
+        tags.map((tag, index) => <Tag type={tag} key={index} />)}
     </div>
   );
-  index += 1;
 }
 
 export default TagGroup;

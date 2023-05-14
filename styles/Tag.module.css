@@ -84,3 +84,8 @@ Factual Report rating
   background-color: rgb(196, 108, 0);
   color: white;
 }
+
+.opinion {
+  font-weight: bold;
+  color: red;
+}

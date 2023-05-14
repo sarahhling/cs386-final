@@ -24,11 +24,14 @@ function findOther(source) {
   return null; // Return null if the source is not found
 }
 
-function getInfo(source) {
+function getInfo(source, opinion) {
   var info = [];
   var facts = findFactualReporting(source);
   var other = findOther(source);
   var bias = findBiasRating(source);
+  if (opinion) {
+    info.push("opinion");
+  }
   if (facts != "" && facts != null) {
     info.push(facts);
   }

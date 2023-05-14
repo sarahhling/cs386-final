@@ -17,7 +17,7 @@ const NavBar = () => {
   const [ent, setEnt] = useState("/images/ent.png");
   return (
     <>
-      <Nav id={styles.nav} className="flex-column pt-5">
+      <Nav className={`flex-column pt-5 ${styles.nav}`}>
         <Nav.Item>
           <Nav.Link
             href="/"
@@ -40,7 +40,7 @@ const NavBar = () => {
         </Nav.Item>
         <Nav.Item>
           <Nav.Link
-            href="/"
+            href="/news"
             id="news"
             className={`py-3 ${styles.navlink}`}
             onMouseEnter={() => {
@@ -100,7 +100,7 @@ const NavBar = () => {
         </Nav.Item>
         <Nav.Item>
           <Nav.Link
-            href="/sci"
+            href="/science"
             id="sci"
             className={`py-3 ${styles.navlink}`}
             onMouseEnter={() => {
@@ -140,7 +140,7 @@ const NavBar = () => {
         </Nav.Item>
         <Nav.Item>
           <Nav.Link
-            href="/ent"
+            href="/entertainment"
             id="ent"
             className={`py-3 ${styles.navlink}`}
             onMouseEnter={() => {
