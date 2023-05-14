@@ -2,10 +2,11 @@
 
 import React from "react";
 import { useState } from "react";
-import { Nav, Image } from "react-bootstrap";
+import { Nav, Image, Navbar } from "react-bootstrap";
 import styles from "../styles/Navbar.module.css";
+import CustomDropdown from "./dropdown";
 
-const Navbar = () => {
+const NavBar = () => {
   const [all, setAll] = useState("/all.png");
   const [gen, setGen] = useState("/news.png");
   const [biz, setBiz] = useState("/biz.png");
@@ -14,7 +15,7 @@ const Navbar = () => {
   const [ent, setEnt] = useState("/ent.png");
   return (
     <div id={styles.nav} className="pt-5">
-      <Nav className="flex-column">
+      <Nav className="flex-column ">
         <Nav.Item>
           <Nav.Link
             href="/"
@@ -112,8 +113,10 @@ const Navbar = () => {
           </Nav.Link>
         </Nav.Item>
       </Nav>
+
+      <CustomDropdown />
     </div>
   );
 };
 
-export default Navbar;
+export default NavBar;

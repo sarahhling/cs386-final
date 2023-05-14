@@ -10,11 +10,11 @@ function HeadlineBody({ articles }) {
         return (
           <Headline
             key={key}
-            source={article.source.name}
+            source={article.rights}
             headline={article.title}
-            date={article.publishedAt}
-            url={article.url}
-            imgURL={article.urlToImage}
+            date={article.published_date}
+            url={article.link}
+            imgURL={article.media}
           />
         );
       })}

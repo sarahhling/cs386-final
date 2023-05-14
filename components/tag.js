@@ -1,8 +1,7 @@
 import React from "react";
 import styles from "../styles/Tag.module.css";
 
-function Tag(props) {
-  const { type } = props;
+function Tag({ type }) {
   var style, value;
   switch (type) {
     case "Very High":
@@ -29,6 +28,10 @@ function Tag(props) {
       style = styles.veryLow;
       value = "FR: Very Low";
       break;
+    case "Extreme Left":
+      style = styles.extreme_left;
+      value = "Extreme Left";
+      break;
     case "Left":
       style = styles.left;
       value = "Left";
@@ -49,19 +52,21 @@ function Tag(props) {
       style = styles.right;
       value = "Right";
       break;
-    case "conspiracy":
+    case "Extreme Right":
+      style = styles.extreme_right;
+      value = "Extreme Right";
+      break;
+    case "Conspiracy":
       style = styles.conspiracy;
       value = "Pseudoscience/Conspiracy";
       break;
-    case "satire":
+    case "Satire":
       style = styles.satire;
       value = "Satire";
       break;
     default:
-    // code block
   }
-
-  return <span className={style}>{value}</span>;
+  return <div className={`${styles.tag} ${style}`}>{value}</div>;
 }
 
 export default Tag;

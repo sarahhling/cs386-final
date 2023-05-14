@@ -1,0 +1,9 @@
+.custom_dropdown {
+  width: 90%;
+  font-size: 14px;
+}
+
+.dropdown_header {
+  background-color: green;
+  color: white;
+}

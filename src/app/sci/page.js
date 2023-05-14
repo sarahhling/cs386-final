@@ -9,7 +9,7 @@ export default function Home() {
 
   useEffect(() => {
     async function fetchData() {
-      const headlines = await fetchNewsHeadlines("business", "");
+      const headlines = await fetchNewsHeadlines("science", "");
       setArticles(headlines);
     }
 

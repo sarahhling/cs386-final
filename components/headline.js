@@ -1,30 +1,62 @@
 import React from "react";
 import Image from "react-bootstrap/Image";
 import styles from "../styles/Headline.module.css";
+import { Row, Col } from "react-bootstrap";
+import TagGroup from "./TagGroup";
 
 function Headline(props) {
   var { imgURL, date, headline, url, source } = props;
-  var headlineGroup;
+  var source_url;
 
   imgURL = imgURL == null ? "/defaultHeadlineImg.png" : imgURL;
-  date = date == null ? "" : date;
+  date = date == null ? "Date Unavailable" : new Date(date);
   headline = headline == null ? "" : headline;
   url = url == null ? "" : url;
   source = source == null ? "" : source;
+  source_url = source == null ? "" : "https://www." + source;
+
   console.log(`${imgURL}\n${date}\n${headline}\n${url}\n${source}`);
 
+  if (date != "") {
+    const options = { month: "long", day: "numeric", year: "numeric" };
+    date = date.toLocaleDateString("en-US", options);
+  }
+
   return (
-    <li class={`${headline} my-2`}>
-      <Image src={imgURL} className={styles.img} />
-      <div>
-        <p className={`m-0 ${styles.date}`}> {date}</p>
-        <a href={url}>
-          {headline}
-          <span className={styles.source}>({source})</span>
-        </a>
-        {headlineGroup}
-      </div>
-    </li>
+    // <li class={`${headline} my-2`}>
+    //   <Image src={imgURL} className={styles.img} />
+    //   <div>
+    //     <p className={`m-0 ${styles.date}`}> {date}</p>
+    //     <a href={url}>
+    //       {headline}
+    //       <span className={styles.source}>({source})</span>
+    //     </a>
+    //     {headlineGroup}
+    //   </div>
+    // </li>
+    <Row className={styles.headlineDiv}>
+      <Col xs={2}>
+        <Image src={imgURL} className={styles.img} />
+      </Col>
+      <Col>
+        <Row>
+          <p className={`m-0 ${styles.date}`}>{date}</p>
+        </Row>
+        <Row>
+          <div>
+            <a href={url} className={styles.headline}>
+              {headline}&nbsp;
+            </a>
+            <a href={source_url}>
+              <span className={styles.source}>({source})</span>
+            </a>
+          </div>
+        </Row>
+        <Row>
+          <TagGroup source={source} />
+        </Row>
+      </Col>
+    </Row>
   );
 }
 
