@@ -47,8 +47,8 @@ function Headline(props) {
             <a href={url} className={styles.headline} target="_blank">
               {headline}&nbsp;
             </a>
-            <a href={source_url} target="_blank">
-              <span className={styles.source}>({source})</span>
+            <a href={source_url} target="_blank" className={styles.source}>
+              <span>({source})</span>
             </a>
           </div>
         </Row>

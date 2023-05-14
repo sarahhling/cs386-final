@@ -8,7 +8,7 @@ import CustomDropdown from "./dropdown";
 
 const NavBar = () => {
   const [all, setAll] = useState("/images/all.png");
-  const [world, setWorld] = useState("/images/all.png");
+  const [world, setWorld] = useState("/images/world.png");
   const [news, setNews] = useState("/images/news.png");
   const [pol, setPol] = useState("/images/pol.png");
   const [biz, setBiz] = useState("/images/biz.png");
@@ -30,7 +30,11 @@ const NavBar = () => {
               setAll("/images/all.png");
             }}
           >
-            <Image src={all} className={`me-3 pb-1 ${styles.img}`} />
+            <Image
+              src={all}
+              className={`me-3 pb-1 ${styles.img}`}
+              alt="all icon"
+            />
             All
           </Nav.Link>
         </Nav.Item>
@@ -56,10 +60,10 @@ const NavBar = () => {
             id="world"
             className={`py-3 ${styles.navlink}`}
             onMouseEnter={() => {
-              setWorld("/images/all_h.png");
+              setWorld("/images/world_h.png");
             }}
             onMouseLeave={() => {
-              setWorld("/images/all.png");
+              setWorld("/images/world.png");
             }}
           >
             <Image src={world} className={`me-3 pb-1 ${styles.img}`} />

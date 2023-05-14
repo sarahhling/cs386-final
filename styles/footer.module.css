@@ -1,5 +1,14 @@
 .footer {
-  background-color: green;
+  background-color: #2344c6;
+  color: #4cffc0;
+  font-weight: 400;
+  text-align: center;
+}
+
+.link {
   color: white;
-  font-weight: bold;
+}
+
+.link:hover {
+  color: #c2ffe9;
 }

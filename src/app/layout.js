@@ -9,6 +9,7 @@ import Logo from "../../components/Logo";
 import Searchbar from "../../components/searchbar";
 import HeadlineBodyPlaceholder from "../../components/HeadlineBodyPlaceholder";
 import Footer from "../../components/Footer";
+import "./globals.css";
 
 export default function RootLayout({ children }) {
   const [isLoading, setIsLoading] = useState(true);
@@ -55,10 +56,10 @@ export default function RootLayout({ children }) {
                   children // Renders content after it has loaded
                 )}
               </Row>
+              <Row>
+                <Footer time={currentTime} />
+              </Row>
             </Col>
-          </Row>
-          <Row>
-            <Footer time={currentTime} />
           </Row>
         </Container>
       </body>
