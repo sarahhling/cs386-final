@@ -1,5 +1,13 @@
 import newsRatings from "../newsRatings.json";
 
+function foundSourceInData(source) {
+  const foundSource = newsRatings.find((item) => item.source == source);
+  if (foundSource) {
+    return true;
+  }
+  return false; // Return null if the source is not found
+}
+
 function findFactualReporting(source) {
   const foundSource = newsRatings.find((item) => item.source == source);
   if (foundSource) {
@@ -44,4 +52,10 @@ function getInfo(source, opinion) {
   return info;
 }
 
-export { findFactualReporting, findBiasRating, findOther, getInfo };
+export {
+  foundSourceInData,
+  findFactualReporting,
+  findBiasRating,
+  findOther,
+  getInfo,
+};

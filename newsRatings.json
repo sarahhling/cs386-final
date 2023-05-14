@@ -1,16 +1,303 @@
 [
   {
+    "source": "abcnews.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "arstechnica.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": null
+  },
+  {
+    "source": "axios.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "baltimoresun.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "bostonglobe.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "businessinsider.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "cbs.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "deadline.com",
+    "category": "Entertainment",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "engadget.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "espn.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "ew.com",
+    "category": "Entertainment",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "fortune.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Right-Center",
+    "other": null
+  },
+  {
+    "source": "foxsports.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "gizmodo.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left",
+    "other": null
+  },
+  {
+    "source": "hollywoodreporter.com",
+    "category": "Entertainment",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "insider.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "irishtimes.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "kcrg.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": null
+  },
+  {
+    "source": "kotaku.com",
+    "category": "Entertainment",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "marketwatch.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Right-Center",
+    "other": null
+  },
+  {
+    "source": "medicalnewstoday.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": null,
+    "other": null
+  },
+  {
+    "source": "nationalgeographic.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": null,
+    "other": null
+  },
+  {
+    "source": "nbcnews.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "news24.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": null
+  },
+  {
+    "source": "nextbigfuture.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": null,
+    "other": null
+  },
+  {
+    "source": "npr.org",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "nymag.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left",
+    "other": null
+  },
+  {
+    "source": "pitchfork.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left",
+    "other": null
+  },
+  {
+    "source": "politico.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "politico.eu",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "polygon.com",
+    "category": "Entertainment",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "pressherald.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "recode.net",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": null
+  },
+  {
+    "source": "reuters.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": null
+  },
+  {
+    "source": "rollingstone.com",
+    "category": "Entertainment",
+    "factual reporting": "High",
+    "bias rating": "Left",
+    "other": null
+  },
+  {
+    "source": "rte.ie",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": null
+  },
+  {
+    "source": "scitechdaily.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": null,
+    "other": null
+  },
+  {
+    "source": "techcrunch.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "theglobeandmail.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Right-Center",
+    "other": null
+  },
+  {
+    "source": "time.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "vulture.com",
+    "category": "Entertainment",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "wired.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
     "source": "10tv.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "247sports.com",
-    "category": "Sports",
-    "factual reporting": null,
-    "bias rating": null,
     "other": ""
   },
   {
@@ -21,25 +308,11 @@
     "other": ""
   },
   {
-    "source": "9to5google.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": null
-  },
-  {
-    "source": "9to5mac.com",
-    "category": "Technology",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "abcnews.com",
+    "source": "abc17news.com",
     "category": "",
     "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
+    "bias rating": "Least Biased",
+    "other": ""
   },
   {
     "source": "abc27.com",
@@ -63,80 +336,17 @@
     "other": ""
   },
   {
-    "source": "abcaudio.com",
+    "source": "actionnewsjax.com",
     "category": "",
-    "factual reporting": null,
-    "bias rating": null,
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
-  },
-  {
-    "source": "aboutlawsuits.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "actionnetwork.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": null
   },
   {
     "source": "ajc.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
-    "source": "ajmc.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "aljazeera.com/",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "altright.com",
-    "category": "",
-    "factual reporting": "Low",
-    "bias rating": "Extreme Right",
-    "other": ""
-  },
-  {
-    "source": "americanbankingnews.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "americanthinker.com",
-    "category": "",
-    "factual reporting": "Low",
-    "bias rating": "Extreme Right",
-    "other": ""
-  },
-  {
-    "source": "amgreatness.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "androidauthority.com",
-    "category": "Technology",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -154,67 +364,11 @@
     "other": ""
   },
   {
-    "source": "appleinsider.com",
-    "category": "Technology",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "apr.org",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "aps.org",
-    "category": "science",
-    "factual reporting": "Very High",
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "arstechnica.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Least Biased",
-    "other": null
-  },
-  {
-    "source": "artnews.com",
-    "category": "Entertainment",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "avn.com",
-    "category": "Entertainment",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "axios.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
     "source": "azcentral.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Left-Center",
     "other": ""
-  },
-  {
-    "source": "baltimoresun.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
   },
   {
     "source": "barrons.com",
@@ -224,24 +378,10 @@
     "other": ""
   },
   {
-    "source": "bearingdrift.com",
+    "source": "bellingcat.com",
     "category": "",
-    "factual reporting": null,
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "beaumontenterprise.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "beebom.com",
-    "category": "Technology",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
     "other": ""
   },
   {
@@ -259,45 +399,10 @@
     "other": ""
   },
   {
-    "source": "bignewsnetwork.com",
+    "source": "billingsgazette.com",
     "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "biospace.com",
-    "category": "Science",
-    "factual reporting": "Mostly Factual",
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "bipartisanreport.com",
-    "category": "Politics",
-    "factual reporting": "Low",
-    "bias rating": "Extreme Left",
-    "other": ""
-  },
-  {
-    "source": "bizjournals.com",
-    "category": "business",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "bleacherreport.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "bleedingcool.com",
-    "category": "Entertainment",
-    "factual reporting": null,
-    "bias rating": null,
+    "factual reporting": "High",
+    "bias rating": "Right-Center",
     "other": ""
   },
   {
@@ -308,59 +413,17 @@
     "other": ""
   },
   {
-    "source": "bloody-disgusting.com",
-    "category": "Entertainment",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "bloomberg.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "boingboing.net",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left",
-    "other": ""
-  },
-  {
-    "source": "bollyinside.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "bossip.com",
-    "category": "Entertainment",
-    "factual reporting": "Mixed",
-    "bias rating": "Extreme Left",
-    "other": ""
-  },
-  {
-    "source": "bostonglobe.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "bournemouthecho.co.uk",
+    "source": "boston25news.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
     "other": ""
   },
   {
-    "source": "bovnews.com",
-    "category": "Business",
-    "factual reporting": null,
-    "bias rating": null,
+    "source": "bournemouthecho.co.uk",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -371,81 +434,11 @@
     "other": ""
   },
   {
-    "source": "breitbart.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": null
-  },
-  {
-    "source": "broadwayworld.com",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "brookingsregister.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
     "source": "buffalonews.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
     "other": ""
-  },
-  {
-    "source": "business2community.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "businessinsider.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "businesswire.com",
-    "category": "Business",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "buzzfeed.com",
-    "category": "Entertainment",
-    "factual reporting": "Mixed",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "buzzfeednews.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "cartoq.com",
-    "category": "Business",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "cbs.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
   },
   {
     "source": "cbs17.com",
@@ -476,38 +469,10 @@
     "other": ""
   },
   {
-    "source": "celebretainment.com",
-    "category": "Entertainment",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "celebrityaccess.com",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "cenlanow.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
     "source": "centralillinoisproud.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "charismamag.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": "Right",
     "other": ""
   },
   {
@@ -518,38 +483,10 @@
     "other": ""
   },
   {
-    "source": "chron.com",
+    "source": "chicagotribune.com",
     "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": null
-  },
-  {
-    "source": "chron.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "cinemablend.com",
-    "category": "Entertainment",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "cisco.com",
-    "category": "Business",
-    "factual reporting": null,
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "citizensjournal.us",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
+    "factual reporting": "High",
+    "bias rating": "Right-Center",
     "other": ""
   },
   {
@@ -557,20 +494,6 @@
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "clevelandclinic.org",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "clichemag.com",
-    "category": "Entertainment",
-    "factual reporting": null,
-    "bias rating": null,
     "other": ""
   },
   {
@@ -595,59 +518,10 @@
     "other": ""
   },
   {
-    "source": "clinicaltrialsarena.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "cmswire.com",
-    "category": "Technology",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "cnbc.com",
-    "category": "Business",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
     "source": "cnet.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "cnn.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left",
-    "other": null
-  },
-  {
-    "source": "coindesk.com",
-    "category": "Technology",
-    "factual reporting": null,
-    "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "collider.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": null
-  },
-  {
-    "source": "com-unik.info",
-    "category": "Business",
-    "factual reporting": null,
-    "bias rating": null,
     "other": ""
   },
   {
@@ -658,20 +532,6 @@
     "other": ""
   },
   {
-    "source": "consequence.net",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "conservativedailynews.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Extreme Right",
-    "other": ""
-  },
-  {
     "source": "conservativehome.com",
     "category": "",
     "factual reporting": "High",
@@ -679,17 +539,10 @@
     "other": ""
   },
   {
-    "source": "conservativereview.com",
+    "source": "counton2.com",
     "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "coolhunting.com",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -700,39 +553,11 @@
     "other": ""
   },
   {
-    "source": "cpapracticeadvisor.com",
-    "category": "Technology",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "crooksandliars.com",
+    "source": "csmonitor.com",
     "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
-  },
-  {
-    "source": "crowdfundinsider.com",
-    "category": "Technology",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "crunchbase.com",
-    "category": "Business",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "Crypto Coins News",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": null
   },
   {
     "source": "ctpost.com",
@@ -740,13 +565,6 @@
     "factual reporting": "High",
     "bias rating": "Left-Center",
     "other": ""
-  },
-  {
-    "source": "cureus.com",
-    "category": "Science",
-    "factual reporting": "Mixed",
-    "bias rating": null,
-    "other": "Conspiracy"
   },
   {
     "source": "cw33.com",
@@ -760,27 +578,6 @@
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "dailymail.co.uk",
-    "category": "Entertainment",
-    "factual reporting": "Low",
-    "bias rating": "Right",
-    "other": null
-  },
-  {
-    "source": "dailycaller.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "dailypolitical.com",
-    "category": "Business",
-    "factual reporting": null,
-    "bias rating": null,
     "other": ""
   },
   {
@@ -805,38 +602,10 @@
     "other": ""
   },
   {
-    "source": "deadline.com",
-    "category": "Entertainment",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "dealerscope.com",
+    "source": "democracynow.org",
     "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "denofgeek.com",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "digitaltrends.com",
-    "category": "Technology",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "dispatchtribunal.com",
-    "category": "Business",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Left",
     "other": ""
   },
   {
@@ -847,38 +616,10 @@
     "other": ""
   },
   {
-    "source": "dnyuz.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right-Center",
-    "other": ""
-  },
-  {
     "source": "dothaneagle.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "engadget.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "espn.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "eurekalert.org",
-    "category": "Science",
-    "factual reporting": "Very High",
-    "bias rating": null,
     "other": ""
   },
   {
@@ -889,13 +630,6 @@
     "other": ""
   },
   {
-    "source": "eurweb.com",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "everythinglubbock.com",
     "category": "",
     "factual reporting": "High",
@@ -903,24 +637,10 @@
     "other": ""
   },
   {
-    "source": "ew.com",
-    "category": "Entertainment",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
     "source": "expressnews.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
-    "source": "extremetech.com",
-    "category": "Technology",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -931,20 +651,6 @@
     "other": ""
   },
   {
-    "source": "filmdaily.co",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "financialpost.com",
-    "category": "Business",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Right-Center",
-    "other": null
-  },
-  {
     "source": "floridapolitics.com",
     "category": "",
     "factual reporting": "High",
@@ -952,25 +658,11 @@
     "other": ""
   },
   {
-    "source": "fonearena.com",
-    "category": "Technology",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "forbes.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Right-Center",
-    "other": ""
-  },
-  {
-    "source": "fortune.com",
+    "source": "fourstateshomepage.com",
     "category": "",
     "factual reporting": "High",
-    "bias rating": "Right-Center",
-    "other": null
+    "bias rating": "Least Biased",
+    "other": ""
   },
   {
     "source": "fox16.com",
@@ -981,6 +673,13 @@
   },
   {
     "source": "fox21news.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
+    "source": "fox40.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
@@ -1001,45 +700,10 @@
     "other": ""
   },
   {
-    "source": "foxbusiness.com",
-    "category": "Business",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Right-Center",
-    "other": ""
-  },
-  {
-    "source": "foxnews.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "foxsports.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
     "source": "foxwilmington.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "freebeacon.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "freerepublic.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
     "other": ""
   },
   {
@@ -1057,13 +721,6 @@
     "other": ""
   },
   {
-    "source": "gadgets360.com",
-    "category": "Technology",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "gazette.com",
     "category": "",
     "factual reporting": "High",
@@ -1071,24 +728,10 @@
     "other": ""
   },
   {
-    "source": "gizmodo.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left",
-    "other": null
-  },
-  {
     "source": "globalsecurity.org",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "globalspec.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -1106,44 +749,9 @@
     "other": ""
   },
   {
-    "source": "gofugyourself.com",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "gonintendo.com",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "goskagit.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "gossipbucket.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "governing.com",
     "category": "",
     "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
-    "source": "gq.com",
-    "category": "Entertainment",
-    "factual reporting": null,
     "bias rating": "Left-Center",
     "other": ""
   },
@@ -1155,17 +763,17 @@
     "other": ""
   },
   {
-    "source": "guernseypress.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "hawaiinewsnow.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
+    "source": "hawaiitribune-herald.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
     "other": ""
   },
   {
@@ -1176,13 +784,6 @@
     "other": ""
   },
   {
-    "source": "headtopics.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
     "source": "healio.com",
     "category": "Science",
     "factual reporting": "High",
@@ -1190,17 +791,10 @@
     "other": ""
   },
   {
-    "source": "healthday.com",
+    "source": "heavy.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "hellomagazine.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
     "other": ""
   },
   {
@@ -1211,38 +805,10 @@
     "other": ""
   },
   {
-    "source": "heritage.org",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "hindustantimes.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
     "source": "hngnews.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "hollywoodreporter.com",
-    "category": "Entertainment",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "hollywoodlife.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -1253,38 +819,10 @@
     "other": ""
   },
   {
-    "source": "hotnewhiphop.com",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "houstonchronicle.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
-    "source": "huffpost.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left",
-    "other": null
-  },
-  {
-    "source": "hypebeast.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "i3investor.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -1295,41 +833,6 @@
     "other": ""
   },
   {
-    "source": "ign.com",
-    "category": "Entertainment",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": null
-  },
-  {
-    "source": "iheart.com",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "ijr.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "iknowallnews.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "independent.co.uk",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
     "source": "independentaustralia.net",
     "category": "",
     "factual reporting": "High",
@@ -1337,108 +840,10 @@
     "other": ""
   },
   {
-    "source": "independentsentinel.com",
-    "category": "",
-    "factual reporting": "Low",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "indiatoday.in",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right-Center",
-    "other": ""
-  },
-  {
-    "source": "inquirer.net",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
-    "source": "insider.com",
+    "source": "jacobin.com",
     "category": "",
     "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "insidermonkey.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "insurancejournal.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "interestingengineering.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "investors.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "investorsobserver.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "iowapublicradio.org",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "iphoneincanada.ca",
-    "category": "technology",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "irishtimes.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "irvinetimes.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "itpro.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "itwire.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "bias rating": "Left",
     "other": ""
   },
   {
@@ -1449,38 +854,10 @@
     "other": ""
   },
   {
-    "source": "joblo.com",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "journalstar.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "jpost.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Right-Center",
-    "other": null
-  },
-  {
-    "source": "judicialwatch.org",
-    "category": "",
-    "factual reporting": "Low",
-    "bias rating": "Extreme Right",
-    "other": ""
-  },
-  {
-    "source": "justjared.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -1491,35 +868,28 @@
     "other": ""
   },
   {
-    "source": "kasu.org",
+    "source": "kansascity.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
     "other": ""
   },
   {
-    "source": "kccu.org",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "kcrg.com",
+    "source": "kark.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": null
-  },
-  {
-    "source": "kdhnews.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
     "source": "kens5.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
+    "source": "kesq.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
@@ -1540,14 +910,21 @@
     "other": ""
   },
   {
-    "source": "kgou.org",
+    "source": "kgw.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
-    "source": "kgw.com",
+    "source": "khon2.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
+    "source": "kiro7.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
@@ -1561,38 +938,10 @@
     "other": ""
   },
   {
-    "source": "klove.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "koin.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "kotaku.com",
-    "category": "Entertainment",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "krmg.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "kroxam.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -1603,10 +952,10 @@
     "other": ""
   },
   {
-    "source": "ksn.com",
+    "source": "ksl.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -1624,10 +973,10 @@
     "other": ""
   },
   {
-    "source": "ksyl.com",
+    "source": "ktsm.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -1652,27 +1001,6 @@
     "other": ""
   },
   {
-    "source": "kunr.org",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "kvpionline.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "kxnet.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "lacrossetribune.com",
     "category": "",
     "factual reporting": "High",
@@ -1680,24 +1008,10 @@
     "other": ""
   },
   {
-    "source": "ladbible.com",
-    "category": "Entertainment",
-    "factual reporting": "Very Low",
-    "bias rating": null,
-    "other": null
-  },
-  {
     "source": "lancashiretelegraph.co.uk",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "largsandmillportnews.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -1715,27 +1029,6 @@
     "other": ""
   },
   {
-    "source": "legacy.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "lifenews.com",
-    "category": "",
-    "factual reporting": "Low",
-    "bias rating": "Extreme Right",
-    "other": ""
-  },
-  {
-    "source": "lifezette.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Extreme Right",
-    "other": ""
-  },
-  {
     "source": "live5news.com",
     "category": "",
     "factual reporting": "High",
@@ -1746,7 +1039,7 @@
     "source": "livescience.com",
     "category": "Science",
     "factual reporting": "High",
-    "bias rating": "",
+    "bias rating": null,
     "other": ""
   },
   {
@@ -1757,94 +1050,17 @@
     "other": ""
   },
   {
-    "source": "localsyr.com",
+    "source": "localnews8.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
     "other": ""
   },
   {
-    "source": "looper.com",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "macrumors.com",
-    "category": "Technology",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "manisteenews.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "marketbeat.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "marketscreener.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "marketwatch.com",
+    "source": "localsyr.com",
     "category": "",
     "factual reporting": "High",
-    "bias rating": "Right-Center",
-    "other": null
-  },
-  {
-    "source": "mashable.com",
-    "category": "Entertainment",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left",
-    "other": ""
-  },
-  {
-    "source": "mayfieldrecorder.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "mediaite.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left",
-    "other": ""
-  },
-  {
-    "source": "medicalnewstoday.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": null,
-    "other": null
-  },
-  {
-    "source": "medium.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
-    "source": "medscape.com",
-    "category": "Science",
-    "factual reporting": "Very High",
-    "bias rating": "",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -1862,87 +1078,10 @@
     "other": ""
   },
   {
-    "source": "michigansthumb.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "middletownpress.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "milfordmercury.co.uk",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "mindbodygreen.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": null,
-    "other": "Conspiracy"
-  },
-  {
-    "source": "miragenews.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "missoulian.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "modernreaders.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "mondaq.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "mondovisione.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "Moneycontrol",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "monstersandcritics.com",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "morningstar.com",
-    "category": "Business",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -1953,25 +1092,11 @@
     "other": ""
   },
   {
-    "source": "mrt.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "msn.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Left-Center",
     "other": ""
-  },
-  {
-    "source": "msnbc.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left",
-    "other": null
   },
   {
     "source": "muscatinejournal.com",
@@ -1981,14 +1106,21 @@
     "other": ""
   },
   {
-    "source": "mvtelegraph.com",
+    "source": "myarklamiss.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
-    "source": "myarklamiss.com",
+    "source": "mychamplainvalley.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
+    "source": "myfox8.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
@@ -2002,123 +1134,11 @@
     "other": ""
   },
   {
-    "source": "myjournalcourier.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "myplainview.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "nasdaq.com",
-    "category": "Business",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "nationalgeographic.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": null,
-    "other": null
-  },
-  {
-    "source": "nationalreview.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Right",
-    "other": null
-  },
-  {
-    "source": "naturalnews.com",
-    "category": "",
-    "factual reporting": "Very Low",
-    "bias rating": "Extreme Right",
-    "other": "Conspiracy"
-  },
-  {
-    "source": "nature.com",
-    "category": "",
-    "factual reporting": "Very High",
-    "bias rating": null,
-    "other": null
-  },
-  {
     "source": "nbc4i.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
     "other": ""
-  },
-  {
-    "source": "nbcnews.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "nbcsports.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "ndtv.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
-    "source": "nerdist.com",
-    "category": "Entertainment",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "news.com.au",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Right-Center",
-    "other": null
-  },
-  {
-    "source": "news.google.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "news.ycombinator.com/",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Least Biased",
-    "other": null
-  },
-  {
-    "source": "news18.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right-Center",
-    "other": ""
-  },
-  {
-    "source": "news24.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Least Biased",
-    "other": null
   },
   {
     "source": "news4jax.com",
@@ -2128,52 +1148,10 @@
     "other": ""
   },
   {
-    "source": "newsandstar.co.uk",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "newsbusters.org",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "newscientist.com",
-    "category": "",
-    "factual reporting": "Very High",
-    "bias rating": "",
-    "other": null
-  },
-  {
     "source": "newser.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
-    "source": "newsgram.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "newsheater.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "newsmax.com",
-    "category": "",
-    "factual reporting": "Low",
-    "bias rating": "Right",
     "other": ""
   },
   {
@@ -2205,25 +1183,11 @@
     "other": ""
   },
   {
-    "source": "newsweek.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Right-Center",
-    "other": null
-  },
-  {
     "source": "newyorker.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Left",
     "other": ""
-  },
-  {
-    "source": "nextbigfuture.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": null,
-    "other": null
   },
   {
     "source": "nextgov.com",
@@ -2240,27 +1204,6 @@
     "other": ""
   },
   {
-    "source": "nigerianeye.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "nintendolife.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "nj.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "nj1015.com",
     "category": "",
     "factual reporting": "High",
@@ -2268,46 +1211,11 @@
     "other": ""
   },
   {
-    "source": "nme.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "npr.org",
+    "source": "nwahomepage.com",
     "category": "",
     "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "nrn.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "bias rating": "Least Biased",
     "other": ""
-  },
-  {
-    "source": "nwemail.co.uk",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "nymag.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left",
-    "other": null
-  },
-  {
-    "source": "nypost.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right-Center",
-    "other": null
   },
   {
     "source": "nytimes.com",
@@ -2317,38 +1225,10 @@
     "other": ""
   },
   {
-    "source": "nytimespost.com",
+    "source": "ourquadcities.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "oann.com",
-    "category": "",
-    "factual reporting": "Low",
-    "bias rating": "Extreme Right",
-    "other": ""
-  },
-  {
-    "source": "okmagazine.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "oodaloop.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "ourmidland.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -2359,59 +1239,10 @@
     "other": ""
   },
   {
-    "source": "pagesix.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "palmerreport.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left",
-    "other": ""
-  },
-  {
-    "source": "parade.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "pastemagazine.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Left",
-    "other": ""
-  },
-  {
-    "source": "patch.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "pbs.org",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "peacefmonline.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "penarthtimes.co.uk",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -2429,45 +1260,10 @@
     "other": ""
   },
   {
-    "source": "pharmiweb.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "physiciansweekly.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "pitchfork.com",
+    "source": "pilotonline.com",
     "category": "",
     "factual reporting": "High",
-    "bias rating": "Left",
-    "other": null
-  },
-  {
-    "source": "playbill.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "pledgetimes.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "politicaldog101.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "bias rating": "Left-Center",
     "other": ""
   },
   {
@@ -2478,52 +1274,17 @@
     "other": ""
   },
   {
-    "source": "politico.com",
+    "source": "politicususa.com",
     "category": "",
     "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "politico.eu",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "polygon.com",
-    "category": "Entertainment",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "popculture.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "bias rating": "Left",
     "other": ""
   },
   {
-    "source": "popsugar.com",
+    "source": "postregister.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "postfun.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "pressandjournal.co.uk",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -2534,13 +1295,6 @@
     "other": ""
   },
   {
-    "source": "pressherald.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
     "source": "prnewswire.com",
     "category": "",
     "factual reporting": "High",
@@ -2548,46 +1302,18 @@
     "other": ""
   },
   {
-    "source": "prpeak.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "prweb.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "ptinews.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "rbr.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "realclearpolitics.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Right-Center",
-    "other": ""
-  },
-  {
-    "source": "recode.net",
+    "source": "propublica.org",
     "category": "",
     "factual reporting": "High",
-    "bias rating": "Least Biased",
-    "other": null
+    "bias rating": "Left-Center",
+    "other": ""
+  },
+  {
+    "source": "reason.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Right-Center",
+    "other": ""
   },
   {
     "source": "register-herald.com",
@@ -2597,45 +1323,10 @@
     "other": ""
   },
   {
-    "source": "registercitizen.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "republicworld.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right-Center",
-    "other": ""
-  },
-  {
-    "source": "restaurantmagazine.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "reuters.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Least Biased",
-    "other": null
-  },
-  {
     "source": "richmond.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Right-Center",
-    "other": ""
-  },
-  {
-    "source": "rivertonroll.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -2646,52 +1337,10 @@
     "other": ""
   },
   {
-    "source": "roboticsandautomationnews.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "rockymounttelegram.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "rollingstone.com",
-    "category": "Entertainment",
-    "factual reporting": "High",
-    "bias rating": "Left",
-    "other": null
-  },
-  {
-    "source": "rte.ie",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Least Biased",
-    "other": null
-  },
-  {
-    "source": "runcornandwidnesworld.co.uk",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "sacurrent.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Left",
-    "other": ""
-  },
-  {
-    "source": "salinapost.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -2702,46 +1351,11 @@
     "other": ""
   },
   {
-    "source": "scienceblog.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "scienceblogs.com",
     "category": "Science",
     "factual reporting": "High",
     "bias rating": null,
     "other": ""
-  },
-  {
-    "source": "sciencetimes.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right-Center",
-    "other": ""
-  },
-  {
-    "source": "scitechdaily.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": null,
-    "other": null
-  },
-  {
-    "source": "screenrant.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "Search Engine Land",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": null
   },
   {
     "source": "seattlepi.com",
@@ -2751,10 +1365,10 @@
     "other": ""
   },
   {
-    "source": "securityweek.com",
+    "source": "seattletimes.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
     "other": ""
   },
   {
@@ -2762,13 +1376,6 @@
     "category": "",
     "factual reporting": "High",
     "bias rating": "Right-Center",
-    "other": ""
-  },
-  {
-    "source": "seminoleproducer.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -2786,27 +1393,6 @@
     "other": ""
   },
   {
-    "source": "shorenewsnetwork.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "si.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "siliconangle.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "siouxcityjournal.com",
     "category": "",
     "factual reporting": "High",
@@ -2814,52 +1400,10 @@
     "other": ""
   },
   {
-    "source": "slate.com",
+    "source": "siouxlandproud.com",
     "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left",
-    "other": ""
-  },
-  {
-    "source": "slatersentinel.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "sloughobserver.co.uk",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "sneakernews.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "socialnews.xyz",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "soompi.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "soyacincau.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -2867,13 +1411,6 @@
     "category": "",
     "factual reporting": "High",
     "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "spacecoastdaily.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -2905,73 +1442,17 @@
     "other": ""
   },
   {
+    "source": "statesmanjournal.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
     "source": "statnews.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
-    "source": "sthelensstar.co.uk",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "stocksregister.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "stroudnewsandjournal.co.uk",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "tahlequahdailypress.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "TalkSport",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "techaeris.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "techcrunch.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "techradar.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "techraptor.net",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -2982,13 +1463,6 @@
     "other": ""
   },
   {
-    "source": "techtimes.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "techxplore.com",
     "category": "",
     "factual reporting": "High",
@@ -2996,220 +1470,24 @@
     "other": ""
   },
   {
-    "source": "tellerreport.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "tenthamendmentcenter.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "The Sport Bible",
-    "category": "",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": null
-  },
-  {
-    "source": "The Weather Channel",
-    "category": "general",
-    "factual reporting": null,
-    "bias rating": null,
-    "other": ""
-  },
-  {
-    "source": "the-sun.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "theamericanconservative.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Right-Center",
-    "other": null
-  },
-  {
-    "source": "theblaze.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "thecentersquare.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Right-Center",
-    "other": ""
-  },
-  {
-    "source": "thecerbatgem.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "thecut.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left",
-    "other": ""
-  },
-  {
-    "source": "thedailybeast.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left",
-    "other": ""
-  },
-  {
-    "source": "theenterpriseleader.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "theepochtimes.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "theexpresswire.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "thefederalist.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right",
-    "other": ""
-  },
-  {
-    "source": "thefishsite.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "thegatewaypundit.com",
-    "category": "",
-    "factual reporting": "Very Low",
-    "bias rating": "Extreme Right",
-    "other": ""
-  },
-  {
-    "source": "theglobeandmail.com",
+    "source": "texomashomepage.com",
     "category": "",
     "factual reporting": "High",
-    "bias rating": "Right-Center",
-    "other": null
-  },
-  {
-    "source": "theguardian.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "thehill.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
     "bias rating": "Least Biased",
-    "other": null
+    "other": ""
   },
   {
-    "source": "thehindu.com",
+    "source": "theatlantic.com",
     "category": "",
-    "factual reporting": "Mostly Factual",
+    "factual reporting": "High",
     "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "thehour.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
-    "source": "theintelligencer.com",
+    "source": "thenation.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "thelincolnianonline.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "themarketsdaily.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "thenerdstash.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "thenextweb.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "thepoliticalinsider.com",
-    "category": "",
-    "factual reporting": "Low",
-    "bias rating": "Extreme Right",
-    "other": ""
-  },
-  {
-    "source": "theshillongtimes.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "thestockobserver.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "thetelegraph.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Left",
     "other": ""
   },
   {
@@ -3227,10 +1505,10 @@
     "other": ""
   },
   {
-    "source": "Thewire.in",
+    "source": "theweek.com",
     "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left-Center",
+    "factual reporting": "High",
+    "bias rating": "Left",
     "other": ""
   },
   {
@@ -3241,80 +1519,10 @@
     "other": ""
   },
   {
-    "source": "tickerreport.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "time.com",
-    "category": "",
-    "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "timesandstar.co.uk",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "timesnownews.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "timesofindia.indiatimes.com/us",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right-Center",
-    "other": null
-  },
-  {
     "source": "timesunion.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
-    "source": "tmcnet.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "today.az",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "tomshardware.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "tornosnews.gr",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "transcriptdaily.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -3332,45 +1540,17 @@
     "other": ""
   },
   {
-    "source": "truthout.org",
+    "source": "tristatehomepage.com",
     "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
-    "source": "tvinsider.com",
+    "source": "tulsaworld.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "tvline.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "tvnewscheck.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "tvovermind.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "tvseriesfinale.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Right-Center",
     "other": ""
   },
   {
@@ -3378,27 +1558,6 @@
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "upstract.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "usatoday.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "usmagazine.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -3416,81 +1575,11 @@
     "other": ""
   },
   {
-    "source": "vibe.com",
+    "source": "vox.com",
     "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
-    "source": "vice.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "villagesoup.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "vovworld.vn",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "vulture.com",
-    "category": "Entertainment",
     "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "wabi.tv",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "bias rating": "Left",
     "other": ""
-  },
-  {
-    "source": "wadk.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "wallstreet-online.de",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "wandsworthguardian.co.uk",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "washingtonpost.com",
-    "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Left-Center",
-    "other": ""
-  },
-  {
-    "source": "washingtontimes.com",
-    "category": "",
-    "factual reporting": "Mixed",
-    "bias rating": "Right-Center",
-    "other": null
   },
   {
     "source": "wate.com",
@@ -3504,20 +1593,6 @@
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "wbko.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "wboy.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -3549,6 +1624,13 @@
     "other": ""
   },
   {
+    "source": "wcia.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
     "source": "wcjb.com",
     "category": "",
     "factual reporting": "High",
@@ -3560,13 +1642,6 @@
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "wdbo.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -3598,31 +1673,31 @@
     "other": ""
   },
   {
-    "source": "weather.com",
+    "source": "westhawaiitoday.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
     "other": ""
   },
   {
-    "source": "weeklyblitz.net",
+    "source": "wfla.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
-    "source": "wegotthiscovered.com",
+    "source": "wftv.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
-    "source": "westerntelegraph.co.uk",
+    "source": "wgno.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -3640,21 +1715,14 @@
     "other": ""
   },
   {
-    "source": "whatsondisneyplus.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "whcuradio.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "whec.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
+    "source": "whio.com",
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
@@ -3668,24 +1736,10 @@
     "other": ""
   },
   {
-    "source": "wincountry.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "wired.com",
+    "source": "who13.com",
     "category": "",
     "factual reporting": "High",
-    "bias rating": "Left-Center",
-    "other": null
-  },
-  {
-    "source": "wirralglobe.co.uk",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -3710,10 +1764,10 @@
     "other": ""
   },
   {
-    "source": "wkrb13.com",
+    "source": "wkrg.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -3724,24 +1778,10 @@
     "other": ""
   },
   {
-    "source": "wkzo.com",
+    "source": "wlns.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "wmmo.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "wn.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -3759,31 +1799,10 @@
     "other": ""
   },
   {
-    "source": "wokv.com",
+    "source": "wpxi.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "world-today-news.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "worldscreen.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "wpr.org",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -3801,10 +1820,10 @@
     "other": ""
   },
   {
-    "source": "wrrv.com",
+    "source": "wreg.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -3822,10 +1841,17 @@
     "other": ""
   },
   {
-    "source": "wsj.com",
+    "source": "wsbtv.com",
     "category": "",
-    "factual reporting": "Mostly Factual",
-    "bias rating": "Right-Center",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
+    "source": "wsoctv.com",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
     "other": ""
   },
   {
@@ -3850,41 +1876,6 @@
     "other": ""
   },
   {
-    "source": "wtrf.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "wttf.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "wtvbam.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "wuwm.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
-    "source": "wvnstv.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
-    "other": ""
-  },
-  {
     "source": "wwlp.com",
     "category": "",
     "factual reporting": "High",
@@ -3896,13 +1887,6 @@
     "category": "",
     "factual reporting": "High",
     "bias rating": "Least Biased",
-    "other": ""
-  },
-  {
-    "source": "xda-developers.com",
-    "category": "",
-    "factual reporting": "",
-    "bias rating": "",
     "other": ""
   },
   {
@@ -3920,17 +1904,101 @@
     "other": ""
   },
   {
-    "source": "yoursourceone.com",
+    "source": "variety.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Left-Center",
     "other": ""
   },
   {
-    "source": "zacks.com",
+    "source": "join1440.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "High",
+    "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
+    "source": "nationalinterest.org",
+    "category": "",
+    "factual reporting": "High",
+    "bias rating": "Right-Center",
+    "other": ""
+  },
+  {
+    "source": "vdare.com",
+    "category": "",
+    "factual reporting": "Low",
+    "bias rating": "Extreme Right",
+    "other": "Conspiracy"
+  },
+  {
+    "source": "dailymail.co.uk",
+    "category": "Entertainment",
+    "factual reporting": "Low",
+    "bias rating": "Right",
+    "other": null
+  },
+  {
+    "source": "altright.com",
+    "category": "",
+    "factual reporting": "Low",
+    "bias rating": "Extreme Right",
+    "other": ""
+  },
+  {
+    "source": "americanthinker.com",
+    "category": "",
+    "factual reporting": "Low",
+    "bias rating": "Extreme Right",
+    "other": ""
+  },
+  {
+    "source": "bipartisanreport.com",
+    "category": "Politics",
+    "factual reporting": "Low",
+    "bias rating": "Extreme Left",
+    "other": ""
+  },
+  {
+    "source": "independentsentinel.com",
+    "category": "",
+    "factual reporting": "Low",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "judicialwatch.org",
+    "category": "",
+    "factual reporting": "Low",
+    "bias rating": "Extreme Right",
+    "other": ""
+  },
+  {
+    "source": "lifenews.com",
+    "category": "",
+    "factual reporting": "Low",
+    "bias rating": "Extreme Right",
+    "other": ""
+  },
+  {
+    "source": "newsmax.com",
+    "category": "",
+    "factual reporting": "Low",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "oann.com",
+    "category": "",
+    "factual reporting": "Low",
+    "bias rating": "Extreme Right",
+    "other": ""
+  },
+  {
+    "source": "thepoliticalinsider.com",
+    "category": "",
+    "factual reporting": "Low",
+    "bias rating": "Extreme Right",
     "other": ""
   },
   {
@@ -3941,10 +2009,759 @@
     "other": ""
   },
   {
-    "source": "zolmax.com",
+    "source": "prageru.com",
     "category": "",
-    "factual reporting": "",
-    "bias rating": "",
+    "factual reporting": "Low",
+    "bias rating": "Extreme Right",
+    "other": ""
+  },
+  {
+    "source": "cbn.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": "Conspiracy"
+  },
+  {
+    "source": "cureus.com",
+    "category": "Science",
+    "factual reporting": "Mixed",
+    "bias rating": null,
+    "other": "Conspiracy"
+  },
+  {
+    "source": "mindbodygreen.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": null,
+    "other": "Conspiracy"
+  },
+  {
+    "source": "aljazeera.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "breitbart.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": null
+  },
+  {
+    "source": "buzzfeed.com",
+    "category": "Entertainment",
+    "factual reporting": "Mixed",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "hindustantimes.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "huffpost.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left",
+    "other": null
+  },
+  {
+    "source": "independent.co.uk",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "msnbc.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left",
+    "other": null
+  },
+  {
+    "source": "nypost.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right-Center",
+    "other": null
+  },
+  {
+    "source": "theguardian.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "timesofindia.indiatimes.com/us",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right-Center",
+    "other": null
+  },
+  {
+    "source": "washingtontimes.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right-Center",
+    "other": null
+  },
+  {
+    "source": "alternet.org",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "amgreatness.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "boingboing.net",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "bossip.com",
+    "category": "Entertainment",
+    "factual reporting": "Mixed",
+    "bias rating": "Extreme Left",
+    "other": ""
+  },
+  {
+    "source": "citizensjournal.us",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "conservativedailynews.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Extreme Right",
+    "other": ""
+  },
+  {
+    "source": "conservativereview.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "dailycaller.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "dailykos.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "dailywire.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "dnyuz.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right-Center",
+    "other": ""
+  },
+  {
+    "source": "foxnews.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "freebeacon.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "freebeacon.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "freerepublic.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "gopusa.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "headtopics.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left-Center",
+    "other": ""
+  },
+  {
+    "source": "heritage.org",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "indiatoday.in",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right-Center",
+    "other": ""
+  },
+  {
+    "source": "investors.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "justthenews.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Extreme Right",
+    "other": ""
+  },
+  {
+    "source": "lifezette.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Extreme Right",
+    "other": ""
+  },
+  {
+    "source": "medium.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left-Center",
+    "other": ""
+  },
+  {
+    "source": "ndtv.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left-Center",
+    "other": ""
+  },
+  {
+    "source": "news18.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right-Center",
+    "other": ""
+  },
+  {
+    "source": "newsbusters.org",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "palmerreport.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "redstate.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "republicworld.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right-Center",
+    "other": ""
+  },
+  {
+    "source": "ricochet.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "sciencetimes.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right-Center",
+    "other": ""
+  },
+  {
+    "source": "spectator.org",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "tenthamendmentcenter.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "the-sun.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "theblaze.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "thedailybeast.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "theepochtimes.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "thefederalist.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "thenewamerican.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "truthout.org",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "vibe.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Left-Center",
+    "other": ""
+  },
+  {
+    "source": "yournews.com",
+    "category": "",
+    "factual reporting": "Mixed",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "bleacherreport.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "bloomberg.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "buzzfeednews.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "cnn.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left",
+    "other": null
+  },
+  {
+    "source": "financialpost.com",
+    "category": "Business",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right-Center",
+    "other": null
+  },
+  {
+    "source": "jpost.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right-Center",
+    "other": null
+  },
+  {
+    "source": "nationalreview.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right",
+    "other": null
+  },
+  {
+    "source": "news.com.au",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right-Center",
+    "other": null
+  },
+  {
+    "source": "news.google.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "news.ycombinator.com/",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Least Biased",
+    "other": null
+  },
+  {
+    "source": "newsweek.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right-Center",
+    "other": null
+  },
+  {
+    "source": "theamericanconservative.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right-Center",
+    "other": null
+  },
+  {
+    "source": "thehill.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Least Biased",
+    "other": null
+  },
+  {
+    "source": "thehindu.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "thenextweb.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "usatoday.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "vice.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left-Center",
+    "other": null
+  },
+  {
+    "source": "bignewsnetwork.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
+    "source": "biospace.com",
+    "category": "Science",
+    "factual reporting": "Mostly Factual",
+    "bias rating": null,
+    "other": ""
+  },
+  {
+    "source": "business2community.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
+    "source": "cnbc.com",
+    "category": "Business",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left-Center",
+    "other": ""
+  },
+  {
+    "source": "crooksandliars.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "forbes.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right-Center",
+    "other": ""
+  },
+  {
+    "source": "foxbusiness.com",
+    "category": "Business",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right-Center",
+    "other": ""
+  },
+  {
+    "source": "hotair.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "ijr.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "inquirer.net",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left-Center",
+    "other": ""
+  },
+  {
+    "source": "mashable.com",
+    "category": "Entertainment",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "mediaite.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "realclearpolitics.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right-Center",
+    "other": ""
+  },
+  {
+    "source": "slate.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "slate.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "thecentersquare.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right-Center",
+    "other": ""
+  },
+  {
+    "source": "thecut.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "theintercept.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left",
+    "other": ""
+  },
+  {
+    "source": "Thewire.in",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left-Center",
+    "other": ""
+  },
+  {
+    "source": "washingtonpost.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Left-Center",
+    "other": ""
+  },
+  {
+    "source": "wsj.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right-Center",
+    "other": ""
+  },
+  {
+    "source": "19fortyfive.com",
+    "category": "",
+    "factual reporting": "Mostly Factual",
+    "bias rating": "Right-Center",
+    "other": ""
+  },
+  {
+    "source": "bearingdrift.com",
+    "category": "",
+    "factual reporting": null,
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "charismamag.com",
+    "category": "",
+    "factual reporting": null,
+    "bias rating": "Right",
+    "other": ""
+  },
+  {
+    "source": "coindesk.com",
+    "category": "Technology",
+    "factual reporting": null,
+    "bias rating": "Least Biased",
+    "other": ""
+  },
+  {
+    "source": "gq.com",
+    "category": "Entertainment",
+    "factual reporting": null,
+    "bias rating": "Left-Center",
+    "other": ""
+  },
+  {
+    "source": "nature.com",
+    "category": "",
+    "factual reporting": "Very High",
+    "bias rating": null,
+    "other": null
+  },
+  {
+    "source": "newscientist.com",
+    "category": "",
+    "factual reporting": "Very High",
+    "bias rating": null,
+    "other": null
+  },
+  {
+    "source": "aps.org",
+    "category": "science",
+    "factual reporting": "Very High",
+    "bias rating": null,
+    "other": ""
+  },
+  {
+    "source": "eurekalert.org",
+    "category": "Science",
+    "factual reporting": "Very High",
+    "bias rating": null,
+    "other": ""
+  },
+  {
+    "source": "medscape.com",
+    "category": "Science",
+    "factual reporting": "Very High",
+    "bias rating": null,
+    "other": ""
+  },
+  {
+    "source": "naturalnews.com",
+    "category": "",
+    "factual reporting": "Very Low",
+    "bias rating": "Extreme Right",
+    "other": "Conspiracy"
+  },
+  {
+    "source": "ladbible.com",
+    "category": "Entertainment",
+    "factual reporting": "Very Low",
+    "bias rating": null,
+    "other": null
+  },
+  {
+    "source": "thegatewaypundit.com",
+    "category": "",
+    "factual reporting": "Very Low",
+    "bias rating": "Extreme Right",
     "other": ""
   }
 ]

@@ -21,11 +21,9 @@ export default function MyApp({ Component, pageProps }) {
           const { currentTime } = await response.json();
           setCurrentTime(new Date(currentTime).toString());
         } else {
-          // Handle the error case, e.g., display an error message
           console.error("Failed to fetch current time");
         }
       } catch (error) {
-        // Handle the error case, e.g., display an error message
         console.error("An error occurred while fetching current time", error);
       }
     };
@@ -54,10 +52,10 @@ export default function MyApp({ Component, pageProps }) {
   return (
     <Container fluid id={styles.container}>
       <Row>
-        <Col id={styles.nav} xs={5} sm={5} md={3} lg={3}>
+        <Col id={styles.nav} xs={5} sm={5} md={3} lg={3} xl={3}>
           <NavBar />
         </Col>
-        <Col xs={7} sm={7} md={9} lg={9}>
+        <Col xs={7} sm={7} md={9} lg={9} xl={9}>
           <Row className="justify-content-center">
             <Logo />
           </Row>
@@ -69,7 +67,7 @@ export default function MyApp({ Component, pageProps }) {
             {isLoading ? (
               <HeadlineBodyPlaceholder />
             ) : (
-              <Component {...pageProps} currentTime={new Date(currentTime)} /> // Convert string back to Date object
+              <Component {...pageProps} currentTime={new Date(currentTime)} />
             )}
           </Row>
           <Row>
