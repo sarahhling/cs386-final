@@ -7,7 +7,7 @@ import styles from "../styles/Navbar.module.css";
 import CustomDropdown from "./dropdown";
 
 const NavBar = () => {
-  const [all, setAll] = useState("/images/all.png");
+  const [all, setAll] = useState("/images/all_b.png");
   const [world, setWorld] = useState("/images/world.png");
   const [news, setNews] = useState("/images/news.png");
   const [pol, setPol] = useState("/images/pol.png");
@@ -27,7 +27,7 @@ const NavBar = () => {
               setAll("/images/all_h.png");
             }}
             onMouseLeave={() => {
-              setAll("/images/all.png");
+              setAll("/images/all_b.png");
             }}
           >
             <Image

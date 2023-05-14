@@ -39,7 +39,7 @@ function Headline(props) {
         <Image src={imgURL} className={styles.img} alt="headline image" />
       </Col>
       <Col>
-        <Row className="py-2">
+        <Row className="py-1">
           <p className={`m-0 ${styles.date}`}>{date}</p>
         </Row>
         <Row className="pb-1">
