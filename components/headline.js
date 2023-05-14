@@ -44,10 +44,10 @@ function Headline(props) {
         </Row>
         <Row className="pb-1">
           <div>
-            <a href={url} className={styles.headline}>
+            <a href={url} className={styles.headline} target="_blank">
               {headline}&nbsp;
             </a>
-            <a href={source_url}>
+            <a href={source_url} target="_blank">
               <span className={styles.source}>({source})</span>
             </a>
           </div>
