@@ -53,7 +53,7 @@ export default function RootLayout({ children }) {
                   <HeadlineBodyPlaceholder /> // Renders placeholder while component is loading
                 ) : (
                   children
-                )}{" "}
+                )}
                 // Renders content after it has loaded
               </Row>
             </Col>
