@@ -35,10 +35,10 @@ function Headline(props) {
     //   </div>
     // </li>
     <Row className="py-2">
-      <Col xs={2}>
+      <Col xs={12} sm={12} md={2} xl={2}>
         <Image src={imgURL} className={styles.img} alt="headline image" />
       </Col>
-      <Col>
+      <Col xs={12} sm={12} md={10} xl={10}>
         <Row className="py-1">
           <p className={`m-0 ${styles.date}`}>{date}</p>
         </Row>

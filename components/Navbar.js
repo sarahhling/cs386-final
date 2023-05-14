@@ -50,7 +50,11 @@ const NavBar = () => {
               setNews("/images/news.png");
             }}
           >
-            <Image src={news} className={`me-3 pb-1 ${styles.img}`} />
+            <Image
+              src={news}
+              className={`me-3 pb-1 ${styles.img}`}
+              alt="news icon"
+            />
             News
           </Nav.Link>
         </Nav.Item>
@@ -66,7 +70,11 @@ const NavBar = () => {
               setWorld("/images/world.png");
             }}
           >
-            <Image src={world} className={`me-3 pb-1 ${styles.img}`} />
+            <Image
+              src={world}
+              className={`me-3 pb-1 ${styles.img}`}
+              alt="world icon"
+            />
             World
           </Nav.Link>
         </Nav.Item>
@@ -82,7 +90,11 @@ const NavBar = () => {
               setPol("/images/pol.png");
             }}
           >
-            <Image src={pol} className={`me-3 pb-1 ${styles.img}`} />
+            <Image
+              src={pol}
+              className={`me-3 pb-1 ${styles.img}`}
+              alt="politics icon"
+            />
             Politics
           </Nav.Link>
         </Nav.Item>
@@ -98,7 +110,11 @@ const NavBar = () => {
               setSci("/images/sci.png");
             }}
           >
-            <Image src={sci} className={`me-3 pb-1 ${styles.img}`} />
+            <Image
+              src={sci}
+              className={`me-3 pb-1 ${styles.img}`}
+              alt="science icon"
+            />
             Science
           </Nav.Link>
         </Nav.Item>
@@ -114,7 +130,11 @@ const NavBar = () => {
               setTech("/images/tech.png");
             }}
           >
-            <Image src={tech} className={`me-3 pb-1 ${styles.img}`} />
+            <Image
+              src={tech}
+              className={`me-3 pb-1 ${styles.img}`}
+              alt="technology icon"
+            />
             Technology
           </Nav.Link>
         </Nav.Item>
@@ -130,7 +150,11 @@ const NavBar = () => {
               setEnt("/images/ent.png");
             }}
           >
-            <Image src={ent} className={`me-3 pb-1 ${styles.img}`} />
+            <Image
+              src={ent}
+              className={`me-3 pb-1 ${styles.img}`}
+              alt="entertainment icon"
+            />
             Entertainment
           </Nav.Link>
         </Nav.Item>
@@ -146,7 +170,11 @@ const NavBar = () => {
               setBiz("/images/biz.png");
             }}
           >
-            <Image src={biz} className={`me-3 pb-1 ${styles.img}`} />
+            <Image
+              src={biz}
+              className={`me-3 pb-1 ${styles.img}`}
+              alt="business icon"
+            />
             Business
           </Nav.Link>
         </Nav.Item>

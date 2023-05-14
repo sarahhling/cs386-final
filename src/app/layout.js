@@ -38,10 +38,10 @@ export default function RootLayout({ children }) {
       <body>
         <Container fluid id={styles.container}>
           <Row>
-            <Col id={styles.nav}>
+            <Col id={styles.nav} xs={5} sm={5} md={3} lg={3}>
               <NavBar />
             </Col>
-            <Col>
+            <Col xs={7} sm={7} md={9} lg={9}>
               <Row className="justify-content-center">
                 <Logo />
               </Row>
