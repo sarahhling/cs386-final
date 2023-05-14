@@ -1,6 +1,6 @@
 import React from "react";
 import Tag from "./tag";
-import { getInfo } from "../utils/processNewsRatingsJSON";
+import { getInfo } from "../scripts/processNewsRatingsJSON";
 
 function TagGroup({ source }) {
   var tags = getInfo(source);

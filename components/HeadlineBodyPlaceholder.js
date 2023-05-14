@@ -10,7 +10,7 @@ export default function MyComponent() {
         <Row className="ms-2 py-2" key={i}>
           <Col xs={2}>
             <Image
-              src="/placeholder_img.png"
+              src="/images/placeholder_img.png"
               className="w-100"
               alt="image placeholder"
             ></Image>

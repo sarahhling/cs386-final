@@ -1,7 +1,7 @@
 "use client";
 
 import HeadlineBody from "../../../components/HeadlineBody";
-import { fetchNewsHeadlines } from "../../../utils/newsAPIClient";
+import { fetchNewsHeadlines } from "../../../scripts/newsAPIClient";
 import React, { useState, useEffect } from "react";
 
 export default function Home() {

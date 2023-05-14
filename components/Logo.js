@@ -6,7 +6,7 @@ import Link from "next/link";
 function Logo() {
   return (
     <Link href="/" id={styles.logoLink}>
-      <Image src="/logo.png" alt="logo" className={styles.logo} />
+      <Image src="/images/logo.png" alt="logo" className={styles.logo} />
     </Link>
   );
 }

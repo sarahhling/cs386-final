@@ -1,32 +1,36 @@
-import React from "react";
+import styles from "../styles/Tag.module.css";
 
-function processTag() {
+function processTag(type) {
   var style;
   var value;
   switch (type) {
     case "Very High":
       style = styles.veryHigh;
-      value = "FR: Very High";
+      value = "Facts: Very High";
       break;
     case "High":
       style = styles.high;
-      value = "FR: High";
+      value = "Facts: High";
       break;
     case "Mostly Factual":
       style = styles.mostlyFactual;
-      value = "FR: Mostly Factual";
+      value = "Facts: Mostly Factual";
       break;
     case "Mixed":
       style = styles.mixed;
-      value = "FR: Mixed";
+      value = "Facts: Mixed";
       break;
     case "Low":
       style = styles.low;
-      value = "FR: Low";
+      value = "Facts: Low";
       break;
     case "Very Low":
       style = styles.veryLow;
-      value = "FR: Very Low";
+      value = "Facts: Very Low";
+      break;
+    case "Extreme Left":
+      style = styles.extreme_left;
+      value = "Extreme Left";
       break;
     case "Left":
       style = styles.left;
@@ -34,7 +38,7 @@ function processTag() {
       break;
     case "Left-Center":
       style = styles.leftCenter;
-      value = "Left Center";
+      value = "Left-Center";
       break;
     case "Least Biased":
       style = styles.leastBiased;
@@ -48,20 +52,21 @@ function processTag() {
       style = styles.right;
       value = "Right";
       break;
-    case "conspiracy":
+    case "Extreme Right":
+      style = styles.extreme_right;
+      value = "Extreme Right";
+      break;
+    case "Conspiracy":
       style = styles.conspiracy;
       value = "Pseudoscience/Conspiracy";
       break;
-    case "satire":
+    case "Satire":
       style = styles.satire;
       value = "Satire";
       break;
     default:
-      style = "";
-      value = "";
-    // code block
   }
-  return [style, value];
+  return { style, value };
 }
 
-export default processTag;
+export { processTag };

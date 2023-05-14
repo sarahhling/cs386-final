@@ -7,25 +7,27 @@ import styles from "../styles/Navbar.module.css";
 import CustomDropdown from "./dropdown";
 
 const NavBar = () => {
-  const [all, setAll] = useState("/all.png");
-  const [gen, setGen] = useState("/news.png");
-  const [biz, setBiz] = useState("/biz.png");
-  const [sci, setSci] = useState("/sci.png");
-  const [tech, setTech] = useState("/tech.png");
-  const [ent, setEnt] = useState("/ent.png");
+  const [all, setAll] = useState("/images/all.png");
+  const [world, setWorld] = useState("/images/all.png");
+  const [news, setNews] = useState("/images/news.png");
+  const [pol, setPol] = useState("/images/pol.png");
+  const [biz, setBiz] = useState("/images/biz.png");
+  const [sci, setSci] = useState("/images/sci.png");
+  const [tech, setTech] = useState("/images/tech.png");
+  const [ent, setEnt] = useState("/images/ent.png");
   return (
-    <div id={styles.nav} className="pt-5">
-      <Nav className="flex-column ">
+    <>
+      <Nav id={styles.nav} className="flex-column pt-5">
         <Nav.Item>
           <Nav.Link
             href="/"
             id="all"
             className={`py-3 ${styles.navlink}`}
             onMouseEnter={() => {
-              setAll("/all_h.png");
+              setAll("/images/all_h.png");
             }}
             onMouseLeave={() => {
-              setAll("/all.png");
+              setAll("/images/all.png");
             }}
           >
             <Image src={all} className={`me-3 pb-1 ${styles.img}`} />
@@ -35,33 +37,49 @@ const NavBar = () => {
         <Nav.Item>
           <Nav.Link
             href="/"
-            id="general"
+            id="news"
             className={`py-3 ${styles.navlink}`}
             onMouseEnter={() => {
-              setGen("/news_h.png");
+              setNews("/images/news_h.png");
             }}
             onMouseLeave={() => {
-              setGen("/news.png");
+              setNews("/images/news.png");
             }}
           >
-            <Image src={gen} className={`me-3 pb-1 ${styles.img}`} />
-            General
+            <Image src={news} className={`me-3 pb-1 ${styles.img}`} />
+            News
           </Nav.Link>
         </Nav.Item>
         <Nav.Item>
           <Nav.Link
-            href="/biz"
-            id="biz"
+            href="/world"
+            id="world"
             className={`py-3 ${styles.navlink}`}
             onMouseEnter={() => {
-              setBiz("/biz_h.png");
+              setWorld("/images/all_h.png");
             }}
             onMouseLeave={() => {
-              setBiz("/biz.png");
+              setWorld("/images/all.png");
             }}
           >
-            <Image src={biz} className={`me-3 pb-1 ${styles.img}`} />
-            Business
+            <Image src={world} className={`me-3 pb-1 ${styles.img}`} />
+            World
+          </Nav.Link>
+        </Nav.Item>
+        <Nav.Item>
+          <Nav.Link
+            href="/politics"
+            id="pol"
+            className={`py-3 ${styles.navlink}`}
+            onMouseEnter={() => {
+              setPol("/images/pol_h.png");
+            }}
+            onMouseLeave={() => {
+              setPol("/images/pol.png");
+            }}
+          >
+            <Image src={pol} className={`me-3 pb-1 ${styles.img}`} />
+            Politics
           </Nav.Link>
         </Nav.Item>
         <Nav.Item>
@@ -70,10 +88,10 @@ const NavBar = () => {
             id="sci"
             className={`py-3 ${styles.navlink}`}
             onMouseEnter={() => {
-              setSci("/sci_h.png");
+              setSci("/images/sci_h.png");
             }}
             onMouseLeave={() => {
-              setSci("/sci.png");
+              setSci("/images/sci.png");
             }}
           >
             <Image src={sci} className={`me-3 pb-1 ${styles.img}`} />
@@ -86,10 +104,10 @@ const NavBar = () => {
             id="tech"
             className={`py-3 ${styles.navlink}`}
             onMouseEnter={() => {
-              setTech("/tech_h.png");
+              setTech("/images/tech_h.png");
             }}
             onMouseLeave={() => {
-              setTech("/tech.png");
+              setTech("/images/tech.png");
             }}
           >
             <Image src={tech} className={`me-3 pb-1 ${styles.img}`} />
@@ -102,20 +120,35 @@ const NavBar = () => {
             id="ent"
             className={`py-3 ${styles.navlink}`}
             onMouseEnter={() => {
-              setEnt("/ent_h.png");
+              setEnt("/images/ent_h.png");
             }}
             onMouseLeave={() => {
-              setEnt("/ent.png");
+              setEnt("/images/ent.png");
             }}
           >
             <Image src={ent} className={`me-3 pb-1 ${styles.img}`} />
             Entertainment
           </Nav.Link>
         </Nav.Item>
+        <Nav.Item>
+          <Nav.Link
+            href="/biz"
+            id="biz"
+            className={`py-3 ${styles.navlink}`}
+            onMouseEnter={() => {
+              setBiz("/images/biz_h.png");
+            }}
+            onMouseLeave={() => {
+              setBiz("/images/biz.png");
+            }}
+          >
+            <Image src={biz} className={`me-3 pb-1 ${styles.img}`} />
+            Business
+          </Nav.Link>
+        </Nav.Item>
+        <CustomDropdown />
       </Nav>
-
-      <CustomDropdown />
-    </div>
+    </>
   );
 };
 
