@@ -14,12 +14,22 @@ export default function MyApp({ Component, pageProps }) {
   const [isLoading, setIsLoading] = useState(true);
   const [currentTime, setCurrentTime] = useState("");
   const [dataArray, setDataArray] = useState([]);
+  const [query, setQuery] = useState("");
 
   // Function to receive the data from the child component
   const handleData2 = (data) => {
     setDataArray(data);
     console.log("from app " + data);
   };
+
+  const handleQueryChange = (myQuery) => {
+    // Perform actions with the query value in the parent component
+    setQuery(myQuery);
+  };
+
+  useEffect(() => {
+    console.log("Query value in App:", query);
+  }, [query]);
 
   useEffect(() => {
     const fetchCurrentTime = async () => {
@@ -68,14 +78,14 @@ export default function MyApp({ Component, pageProps }) {
             <Logo />
           </Row>
           <Row className="justify-content-center">
-            <Searchbar></Searchbar>
+            <Searchbar onQueryChange={handleQueryChange}></Searchbar>
           </Row>
 
           <Row id={styles.headlineBody}>
             {isLoading ? (
               <HeadlineBodyPlaceholder />
             ) : (
-              <Component {...pageProps} currentTime={new Date(currentTime)} />
+              <Component {...pageProps} filters={dataArray} query={query} />
             )}
           </Row>
           <Row>

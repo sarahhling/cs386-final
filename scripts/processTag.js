@@ -8,63 +8,63 @@ function processTag(type) {
       style = styles.opinion;
       value = "( Opinion Piece )";
       break;
-    case "Very High":
+    case "very_high":
       style = styles.veryHigh;
       value = "Facts: Very High";
       break;
-    case "High":
+    case "high":
       style = styles.high;
       value = "Facts: High";
       break;
-    case "Mostly Factual":
+    case "mostly_factual":
       style = styles.mostlyFactual;
       value = "Facts: Mostly Factual";
       break;
-    case "Mixed":
+    case "mixed":
       style = styles.mixed;
       value = "Facts: Mixed";
       break;
-    case "Low":
+    case "low":
       style = styles.low;
       value = "Facts: Low";
       break;
-    case "Very Low":
+    case "very_low":
       style = styles.veryLow;
       value = "Facts: Very Low";
       break;
-    case "Extreme Left":
+    case "extreme_left":
       style = styles.extreme_left;
       value = "Extreme Left";
       break;
-    case "Left":
+    case "left":
       style = styles.left;
       value = "Left";
       break;
-    case "Left-Center":
+    case "left_center":
       style = styles.leftCenter;
       value = "Left-Center";
       break;
-    case "Least Biased":
+    case "least_biased":
       style = styles.leastBiased;
       value = "Least Biased";
       break;
-    case "Right-Center":
+    case "right_center":
       style = styles.rightCenter;
       value = "Right-Center";
       break;
-    case "Right":
+    case "right":
       style = styles.right;
       value = "Right";
       break;
-    case "Extreme Right":
+    case "extreme_right":
       style = styles.extreme_right;
       value = "Extreme Right";
       break;
-    case "Conspiracy":
+    case "conspiracy":
       style = styles.conspiracy;
       value = "Pseudoscience/Conspiracy";
       break;
-    case "Satire":
+    case "satire":
       style = styles.satire;
       value = "Satire";
       break;

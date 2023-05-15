@@ -1,14 +1,25 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Tag from "./tag";
-import { getInfo } from "../scripts/processNewsRatingsJSON";
 
-function TagGroup(props) {
-  const { source, opinion } = props;
-  var tags = getInfo(source, opinion);
+function TagGroup({ tags }) {
+  const [myTags, setTags] = useState([]);
+
+  useEffect(() => {
+    setTags(tags);
+  }, [tags]);
+
+  //console.log("tag group tags: " + tags);
+
   return (
     <div className="d-inline">
-      {tags.length > 0 &&
-        tags.map((tag, index) => <Tag type={tag} key={index} />)}
+      {myTags &&
+        myTags.length > 0 &&
+        myTags.map((tag, index) => {
+          //console.log(tag);
+          if (tag != "opinion") {
+            return <Tag type={tag} key={index} />;
+          }
+        })}
     </div>
   );
 }

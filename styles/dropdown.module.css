@@ -7,3 +7,12 @@
   background-color: green;
   color: white;
 }
+
+.clear {
+  background-color: #233c9e !important;
+  border-color: #233c9e !important;
+}
+
+.clear:hover {
+  background-color: #2f50d4 !important;
+}

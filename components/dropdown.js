@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react";
-import { Form, Accordion } from "react-bootstrap";
+import { Form, Accordion, Button } from "react-bootstrap";
 import styles from "../styles/dropdown.module.css";
 
 export default function CustomDropdown({ sendToNav }) {
   const [field, setField] = useState([]);
+  const [checkedState, setCheckedState] = useState({});
 
   useEffect(() => {
     console.log("from dropdown: " + field);
@@ -20,6 +21,17 @@ export default function CustomDropdown({ sendToNav }) {
     } else {
       setField((prevField) => prevField.filter((item) => item !== id));
     }
+    setCheckedState((prevState) => ({ ...prevState, [id]: checked }));
+  };
+
+  const handleClearCheckboxes = () => {
+    setCheckedState({});
+    setField([]);
+
+    const checkboxes = document.querySelectorAll("input[type='checkbox']");
+    checkboxes.forEach((checkbox) => {
+      checkbox.checked = false;
+    });
   };
 
   return (
@@ -134,7 +146,15 @@ export default function CustomDropdown({ sendToNav }) {
                 label="Opinion Piece"
                 onChange={handleCheckboxChange}
               />
+              <hr />
             </Form>
+            <Button
+              variant="secondary"
+              onClick={handleClearCheckboxes}
+              className={`mx-auto ${styles.clear}`}
+            >
+              Clear Checkboxes
+            </Button>
           </Accordion.Body>
         </Accordion.Item>
       </Accordion>

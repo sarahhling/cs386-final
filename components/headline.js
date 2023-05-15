@@ -3,9 +3,14 @@ import Image from "react-bootstrap/Image";
 import styles from "../styles/Headline.module.css";
 import { Row, Col } from "react-bootstrap";
 import TagGroup from "./TagGroup";
+import Tag from "./tag";
 
 function Headline(props) {
-  var { imgURL, date, headline, url, source, opinion } = props;
+  var { imgURL, date, headline, url, source, opinion, tags } = props;
+  var myOpinion = "";
+  if (opinion) {
+    myOpinion = "opinion";
+  }
   var source_url;
 
   imgURL = imgURL == null ? "/defaultHeadlineImg.png" : imgURL;
@@ -31,7 +36,7 @@ function Headline(props) {
         <Row className="py-1">
           <p className={`m-0 ${styles.date}`}>
             {date} &nbsp;&nbsp;
-            <TagGroup opinion={opinion} />
+            <Tag type={myOpinion} key={0} />
           </p>
         </Row>
         <Row className="pb-1">
@@ -45,7 +50,7 @@ function Headline(props) {
           </div>
         </Row>
         <Row>
-          <TagGroup source={source} />
+          <TagGroup tags={tags} />
         </Row>
       </Col>
     </Row>
