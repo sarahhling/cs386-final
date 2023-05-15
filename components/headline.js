@@ -23,17 +23,6 @@ function Headline(props) {
   }
 
   return (
-    // <li class={`${headline} my-2`}>
-    //   <Image src={imgURL} className={styles.img} />
-    //   <div>
-    //     <p className={`m-0 ${styles.date}`}> {date}</p>
-    //     <a href={url}>
-    //       {headline}
-    //       <span className={styles.source}>({source})</span>
-    //     </a>
-    //     {headlineGroup}
-    //   </div>
-    // </li>
     <Row className="py-2">
       <Col xs={12} sm={12} md={2} xl={2}>
         <Image src={imgURL} className={styles.img} alt="headline image" />

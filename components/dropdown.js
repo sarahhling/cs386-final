@@ -2,11 +2,15 @@ import React, { useState, useEffect } from "react";
 import { Form, Accordion } from "react-bootstrap";
 import styles from "../styles/dropdown.module.css";
 
-export default function CustomDropdown() {
+export default function CustomDropdown({ sendToNav }) {
   const [field, setField] = useState([]);
 
   useEffect(() => {
-    console.log(field);
+    console.log("from dropdown: " + field);
+  }, [field]);
+
+  useEffect(() => {
+    sendToNav(field);
   }, [field]);
 
   const handleCheckboxChange = (event) => {

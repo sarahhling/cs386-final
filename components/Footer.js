@@ -9,7 +9,7 @@ export default function Footer({ time }) {
       <p>
         This website utilizes&nbsp;
         <a href="https://newscatcherapi.com/" className={styles.link}>
-          <strong>&#60;/newscatcher&#62;</strong>
+          <strong className={styles.newscatcher}>&#60;/newscatcher&#62;</strong>
         </a>
         &nbsp;API for news sourcing
       </p>

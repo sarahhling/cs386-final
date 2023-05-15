@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import CustomDropdown from "../components/dropdown";
 import NavBar from "../components/Navbar";
 import styles from "../styles/layout.module.css";
 import "bootstrap/dist/css/bootstrap.css";
@@ -12,6 +13,13 @@ import "../styles/globals.css";
 export default function MyApp({ Component, pageProps }) {
   const [isLoading, setIsLoading] = useState(true);
   const [currentTime, setCurrentTime] = useState("");
+  const [dataArray, setDataArray] = useState([]);
+
+  // Function to receive the data from the child component
+  const handleData2 = (data) => {
+    setDataArray(data);
+    console.log("from app " + data);
+  };
 
   useEffect(() => {
     const fetchCurrentTime = async () => {
@@ -53,7 +61,7 @@ export default function MyApp({ Component, pageProps }) {
     <Container fluid id={styles.container}>
       <Row>
         <Col id={styles.nav} xs={5} sm={5} md={3} lg={3} xl={3}>
-          <NavBar />
+          <NavBar sendToApp={handleData2}></NavBar>
         </Col>
         <Col xs={7} sm={7} md={9} lg={9} xl={9}>
           <Row className="justify-content-center">

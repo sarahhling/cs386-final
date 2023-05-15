@@ -5,7 +5,6 @@ export default function Custom404() {
       <h2 className="pb-5">
         &#128551; Sorry, this page does not exist &#128549;
       </h2>
-      <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
     </div>
   );
 }

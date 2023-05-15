@@ -6,7 +6,7 @@ import { Nav, Image, Navbar } from "react-bootstrap";
 import styles from "../styles/Navbar.module.css";
 import CustomDropdown from "./dropdown";
 
-const NavBar = () => {
+const NavBar = ({ sendToApp }) => {
   const [all, setAll] = useState("/images/all_b.png");
   const [world, setWorld] = useState("/images/world.png");
   const [news, setNews] = useState("/images/news.png");
@@ -15,6 +15,13 @@ const NavBar = () => {
   const [sci, setSci] = useState("/images/sci.png");
   const [tech, setTech] = useState("/images/tech.png");
   const [ent, setEnt] = useState("/images/ent.png");
+  const handleData = (data) => {
+    console.log("from nav " + data);
+    sendToApp(data);
+  };
+
+  // Function to receive the data from the child component
+
   return (
     <>
       <Nav className={`flex-column pt-5 ${styles.nav}`}>
@@ -178,7 +185,7 @@ const NavBar = () => {
             Business
           </Nav.Link>
         </Nav.Item>
-        <CustomDropdown />
+        <CustomDropdown sendToNav={handleData} />
       </Nav>
     </>
   );
